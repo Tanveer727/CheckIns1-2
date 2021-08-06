@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "short project", "..\..\..\..\nvenk\OneDrive\Desktop\short project\", "{17B9B49B-CAA4-427A-AC6A-FB7EAE4C3E36}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/short project"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\nvenk\OneDrive\Desktop\short project\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\short project\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/short project"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\nvenk\OneDrive\Desktop\short project\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\short project\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53412"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B9B49B-CAA4-427A-AC6A-FB7EAE4C3E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B9B49B-CAA4-427A-AC6A-FB7EAE4C3E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B9B49B-CAA4-427A-AC6A-FB7EAE4C3E36}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B9B49B-CAA4-427A-AC6A-FB7EAE4C3E36}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
