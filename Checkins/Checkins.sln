@@ -7,9 +7,39 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nunit", "Nunit", "{D3B32A57-BFE3-4275-A090-26D745C10816}"
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "short project", "..\short project\", "{1BFE07BA-C50B-4088-8EBA-526C498EDF4D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55098"
+		Debug.AspNetCompiler.PhysicalPath = "..\short project\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55098\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55098"
+		Release.AspNetCompiler.PhysicalPath = "..\short project\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55098\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55098"
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BFE07BA-C50B-4088-8EBA-526C498EDF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFE07BA-C50B-4088-8EBA-526C498EDF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1BFE07BA-C50B-4088-8EBA-526C498EDF4D} = {AC4C7262-23A6-4360-AFC4-3E595E5EFD49}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {14F85C38-59B2-48B6-8989-B6F728F4885F}
